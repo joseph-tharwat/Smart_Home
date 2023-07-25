@@ -1,0 +1,26 @@
+HAL/FINGER_PRINT/FINGER_PRINT_PROG.o HAL/FINGER_PRINT/FINGER_PRINT_PROG.o:  \
+ ../HAL/FINGER_PRINT/FINGER_PRINT_PROG.c \
+  D:\Programe_Project\AVR\SmartHome_V2\LIB/STD_TYPES.h \
+  D:\Programe_Project\AVR\SmartHome_V2\MCAL\UART/UART_INT.h \
+  D:\Programe_Project\AVR\SmartHome_V2\MCAL\UART/UART_TYPES.h \
+  D:\Programe_Project\AVR\SmartHome_V2\HAL\LCD/LCD_INT.h \
+  D:\Programe_Project\AVR\SmartHome_V2\HAL\LCD/LCD_PRIV.h \
+  ../HAL/FINGER_PRINT/FINGER_PRINT_TYPES.h \
+  ../HAL/FINGER_PRINT/FINGER_PRINT_PRIV.h \
+  ../HAL/FINGER_PRINT/FINGER_PRINT_INT.h
+
+D:\Programe_Project\AVR\SmartHome_V2\LIB/STD_TYPES.h:
+
+D:\Programe_Project\AVR\SmartHome_V2\MCAL\UART/UART_INT.h:
+
+D:\Programe_Project\AVR\SmartHome_V2\MCAL\UART/UART_TYPES.h:
+
+D:\Programe_Project\AVR\SmartHome_V2\HAL\LCD/LCD_INT.h:
+
+D:\Programe_Project\AVR\SmartHome_V2\HAL\LCD/LCD_PRIV.h:
+
+../HAL/FINGER_PRINT/FINGER_PRINT_TYPES.h:
+
+../HAL/FINGER_PRINT/FINGER_PRINT_PRIV.h:
+
+../HAL/FINGER_PRINT/FINGER_PRINT_INT.h:
